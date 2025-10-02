@@ -1,15 +1,26 @@
-# FanFun.ai - Celebrity & Cartoon Voice Clone 🎙️🎬
+<h1>FanFun.ai - Celebrity & Cartoon Voice Clone 🎙️🎬</h1>
 
-[FanFun.ai](https://www.fanfun.ai) is an AI platform for **celebrity and cartoon character voice cloning**.  
-Just type your text, and instantly generate **realistic speech and video** in the voices of your favorite stars or characters.
+<p>
+  <a href="https://www.fanfun.ai" target="_blank">FanFun.ai</a> is an AI platform for 
+  <strong>celebrity and cartoon character voice cloning</strong>.  
+  Just type your text, and instantly generate 
+  <strong>realistic speech and video</strong> in the voices of your favorite stars or characters.
+</p>
 
-✨ Features:  
-- Celebrity & cartoon voices with lifelike quality  
-- Fast voice + video generation in seconds  
-- 100% online, no technical setup required  
+<h3>✨ Features:</h3>
+<ul>
+  <li>Celebrity & cartoon voices with lifelike quality</li>
+  <li>Fast voice + video generation in seconds</li>
+  <li>100% online, no technical setup required</li>
+</ul>
 
-👉 Try it now: [https://www.fanfun.ai](https://www.fanfun.ai)
+<p>
+  👉 Try it now: <a href="https://www.fanfun.ai" target="_blank">https://www.fanfun.ai</a>
+</p>
 
----
+<hr>
 
-If you are into **AI voice cloning, text-to-video, or virtual celebrities**, check out [FanFun.ai](https://www.fanfun.ai) and share it with friends!
+<p>
+  If you are into <strong>AI voice cloning, text-to-video, or virtual celebrities</strong>,  
+  check out <a href="https://www.fanfun.ai" target="_blank">FanFun.ai</a> and share it with friends!
+</p>
