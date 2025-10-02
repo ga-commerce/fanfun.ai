@@ -10,7 +10,7 @@
 <h3>✨ Features:</h3>
 <ul>
   <li>Celebrity & cartoon voices with lifelike quality</li>
-  <li>Fast voice + video generation in seconds</li>
+  <li>Fast voice + video generation</li>
   <li>100% online, no technical setup required</li>
 </ul>
 
